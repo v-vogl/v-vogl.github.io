@@ -32,6 +32,7 @@ body {
 }
 
 .hero {
+    position: relative;
     height: 100vh;
 
     display: flex;
@@ -39,6 +40,8 @@ body {
     align-items: center;
 
     text-align: center;
+
+    overflow:hidden;
 }
 
 .hero h1 {
