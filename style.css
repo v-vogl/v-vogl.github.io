@@ -91,7 +91,6 @@ body {
 
     text-decoration: none;
     border-radius: 8px;
-    transition: 0.2s ease;
 }
 
 .button:hover {
@@ -199,7 +198,6 @@ section h2::after {
   letter-spacing: 1px;
   text-transform: uppercase;
   color: #ddd;
-transition: 0.2s ease;
 }
 
 .project-links {
@@ -269,8 +267,6 @@ transition: 0.2s ease;
 
     text-decoration: none;
     color: white;
-
-    transition: 0.2s ease;
 }
 
 .contact-links img {
