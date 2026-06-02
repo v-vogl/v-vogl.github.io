@@ -91,10 +91,12 @@ body {
 
     text-decoration: none;
     border-radius: 8px;
+    transition: 0.2s ease;
 }
 
 .button:hover {
-    background: rgba(255,255,255,0.08);
+    transform: translateY(-2px);
+    background: #e6e6e6;
 }
 
 .portfolio {
@@ -197,6 +199,7 @@ section h2::after {
   letter-spacing: 1px;
   text-transform: uppercase;
   color: #ddd;
+transition: 0.2s ease;
 }
 
 .project-links {
@@ -216,6 +219,7 @@ section h2::after {
     justify-content: center;
     gap: 16px;
     flex-wrap: wrap;
+    transition: 0.2s ease;
 }
 
 .skills span {
@@ -265,6 +269,8 @@ section h2::after {
 
     text-decoration: none;
     color: white;
+
+    transition: 0.2s ease;
 }
 
 .contact-links img {
