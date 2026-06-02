@@ -203,7 +203,7 @@ section h2::after {
 
 
 .about {
-    padding: 100px 15%;
+    padding: 100px 15% 40px;
     background-color: #111;
 }
 
@@ -221,10 +221,6 @@ section h2::after {
 }
 
 
-.about h2 {
-   margin-bottom: 200px;
-}
-
 .about-description {
   max-width: 850px;
   margin: 60px auto 0;
@@ -240,7 +236,7 @@ section h2::after {
 }
 
 .contact {
-    padding: 100px 15%;
+    padding: 30px 15% 100px;
     background-color: #111;
 }
 
