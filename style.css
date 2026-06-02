@@ -93,6 +93,10 @@ body {
     border-radius: 8px;
 }
 
+.button:hover {
+    background: rgba(255,255,255,0.08);
+}
+
 .portfolio {
     padding: 100px 15%;
     background-color: #111;
@@ -273,8 +277,17 @@ section h2::after {
     background: rgba(255,255,255,0.08);
 }
 
+
 .contact-button {
     display: flex;
     align-items: center;
     gap: 8px;
 }
+
+.contact-links a:hover,
+.skills span:hover,
+.project-meta span:hover {
+    transform: translateY(-2px);
+}
+
+
