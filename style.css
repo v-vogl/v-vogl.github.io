@@ -234,6 +234,11 @@ section h2::after {
   margin-top: 40px;
 }
 
+.contact {
+    padding: 100px 15%;
+    background-color: #111;
+}
+
 .contact-links {
     display: flex;
     justify-content: center;
