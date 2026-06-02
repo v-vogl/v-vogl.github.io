@@ -160,3 +160,24 @@ body {
   line-height: 1.7;
 }
 
+.project-meta {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  flex-wrap: wrap;
+
+  margin: 32px auto 0;
+}
+
+.project-meta span {
+  border: 1px solid rgba(255,255,255,0.25);
+  padding: 8px 14px;
+  border-radius: 999px;
+
+  font-size: 0.9rem;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #ddd;
+}
+
+
