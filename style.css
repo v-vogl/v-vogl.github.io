@@ -116,6 +116,16 @@ body {
     margin: 15px auto 0 auto;
 }
 
+.project-label{
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-size: 0.95rem;
+    color: #bbb;
+    margin-bottom: 18px;
+}
+
+
 .project-hero {
   position: relative;
   height: 420px;
@@ -144,6 +154,7 @@ body {
 .project-hero-text p {
   font-size: 16px;
   margin-bottom: 10px;
+  letter-spacing: 3px;
 }
 
 .project-hero-text h3 {
