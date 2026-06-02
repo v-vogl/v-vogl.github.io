@@ -196,6 +196,7 @@ body {
 }
 
 .project-links {
+  justify-content: center;
   text-align: center;
   margin-top: 40px;
 }
