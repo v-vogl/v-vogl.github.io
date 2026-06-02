@@ -267,6 +267,18 @@ section h2::after {
     color: white;
 }
 
+.contact-links img {
+    width: 24px;
+    height: 24px;
+}
+
+
 .contact-links a:hover {
     background: rgba(255,255,255,0.08);
+}
+
+.contact-button {
+    display: flex;
+    align-items: center;
+    gap: 8px;
 }
