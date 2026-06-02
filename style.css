@@ -220,6 +220,11 @@ section h2::after {
     border-radius: 999px;
 }
 
+
+#about h2 {
+   margin-bottom: 10px;
+}
+
 .about-description {
   max-width: 850px;
   margin: 60px auto 0;
@@ -238,6 +243,7 @@ section h2::after {
     padding: 100px 15%;
     background-color: #111;
 }
+
 
 .contact-links {
     display: flex;
