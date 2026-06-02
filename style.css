@@ -93,3 +93,20 @@ body {
     text-decoration: none;
     border-radius: 8px;
 }
+
+.portfolio {
+    padding: 100px 15%;
+    background-color: #111;
+}
+
+.portfolio h2 {
+    font-size: 2.5rem;
+    margin-bottom: 40px;
+}
+
+.project-card {
+    background: #1b1b1b;
+    padding: 40px;
+    border-radius: 12px;
+}
+
