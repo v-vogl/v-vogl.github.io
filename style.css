@@ -219,3 +219,11 @@ section h2::after {
     padding: 8px 14px;
     border-radius: 999px;
 }
+
+.about-description {
+  max-width: 850px;
+  margin: 60px auto 0;
+  padding: 0 24px;
+  font-size: 18px;
+  line-height: 1.7;
+}
