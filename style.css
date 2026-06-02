@@ -201,3 +201,9 @@ section h2::after {
   margin-top: 40px;
 }
 
+
+.about {
+    padding: 100px 15%;
+    background-color: #111;
+}
+
