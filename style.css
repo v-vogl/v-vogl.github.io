@@ -227,3 +227,9 @@ section h2::after {
   font-size: 18px;
   line-height: 1.7;
 }
+
+.about-links {
+  justify-content: center;
+  text-align: center;
+  margin-top: 40px;
+}
